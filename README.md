@@ -17,7 +17,7 @@ Growth of Javascript from just being a **client side** optional language with po
 
 ## Join this Knowlege base
 
-I would like to see the developers across the universe to come and collectively contribute to this initiative. Lets join hands and take Javascript to **Mars**
+I would like to see the developers across the universe to come and collectively contribute to this initiative. Lets join hands and take Javascript to **Mars and eventually to other galaxies**
 
 
 ## Thanks
