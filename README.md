@@ -23,7 +23,10 @@ I would like to see the developers across the universe to come and collectively 
 ## Thanks
 
 Nirus A.K.A Niranjan Kumar
+
 **nirus@live.in**
+
+http://nirus.org
 
 ## Visit
 
