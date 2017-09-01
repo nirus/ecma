@@ -34,4 +34,4 @@ https://ecma.script.rocks
 
 or
 
-http://java.script.com
+http://java.script.rocks
