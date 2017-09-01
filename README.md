@@ -30,5 +30,5 @@ http://nirus.org
 
 ## Visit
 
-http://ecma.script.rocks
+https://ecma.script.rocks
 
