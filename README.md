@@ -30,8 +30,8 @@ http://nirus.org
 
 ## Visit
 
-https://ecma.script.rocks
+https://coder.rocks
 
 or
 
-http://java.script.rocks
+http://CoderRocks.com
